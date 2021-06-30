@@ -1,0 +1,34 @@
+
+Player_MissDie_.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/Hair_0_
+  rotate: false
+  xy: 2, 199
+  size: 182, 225
+  orig: 201, 236
+  offset: 9, 5
+  index: -1
+img/Hair_1_
+  rotate: false
+  xy: 2, 2
+  size: 223, 195
+  orig: 237, 209
+  offset: 7, 6
+  index: -1
+img/Hair_2_
+  rotate: false
+  xy: 227, 126
+  size: 104, 140
+  orig: 120, 154
+  offset: 8, 7
+  index: -1
+img/HeadAndFace
+  rotate: false
+  xy: 186, 268
+  size: 175, 156
+  orig: 176, 157
+  offset: 0, 0
+  index: -1
