@@ -1,0 +1,34 @@
+
+Player_CatGirl_.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/Hair_0_
+  rotate: true
+  xy: 245, 187
+  size: 226, 168
+  orig: 238, 182
+  offset: 6, 7
+  index: -1
+img/Hair_1_
+  rotate: false
+  xy: 2, 15
+  size: 241, 398
+  orig: 253, 412
+  offset: 7, 7
+  index: -1
+img/Hair_2_
+  rotate: false
+  xy: 2, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/HeadAndFace
+  rotate: true
+  xy: 245, 5
+  size: 180, 154
+  orig: 181, 154
+  offset: 1, 0
+  index: -1
